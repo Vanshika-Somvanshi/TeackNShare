@@ -2,6 +2,8 @@
 
 TrackNShare is a web application that allows you to track your expenses in a simple and easy-to-use way. The application is built using React and Express.js, which are two of the most popular JavaScript frameworks. This makes the application fast, reliable, and scalable.
 
+![TrackNShare Screenshot](Homepage.png)
+
 ## Frontend Technologies
 - **React.js**: A JavaScript library for building user interfaces.
 - **Material UI**: A popular React UI framework.
@@ -33,7 +35,4 @@ TrackNShare is a web application that allows you to track your expenses in a sim
 ### 6. **User Authentication and Authorization**
    - Ensures that only authorized users can access the expense data and perform relevant actions.
 
-## Screenshot
-Here is a screenshot of the TrackNShare application:
 
-![TrackNShare Screenshot](Homepage.png)
